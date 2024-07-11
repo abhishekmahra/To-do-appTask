@@ -1,9 +1,11 @@
 # This is the TO DO APP created by me for the submission of my task.
-## The App consist of component to Add a Task 
+## The App consists of various components.
+### The first component consist of section where user can give input and can assign tasks. 
 ### Further Two components are there one is where the To-do tasks list is present, all task will be submitted in the To-do task list.
 ### If the user marks the task completed than the specified task moves to the Completed task list.
-The user can remove the task, edit the task, and mark the task done in the To-do Task list.
-The user can undo a Completed task which will move that task back to the Task list
+•The user can remove the task, edit the task, and mark the task done in the To-do Task list.\
+•The user can undo a Completed task which will move that task back to the Task list.\
+•A strikethrough will appear over the task which is marked completed
 
 
 # Getting Started with Create React App
