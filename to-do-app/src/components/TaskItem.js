@@ -131,3 +131,6 @@ const TaskItem = ({ task, index, completed }) => {
 };
 
 export default TaskItem;
+
+
+

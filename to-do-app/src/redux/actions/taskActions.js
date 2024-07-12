@@ -64,3 +64,7 @@ export const toggleCompleteTask = (index, isCompleted) => ({
   type: TOGGLE_COMPLETE_TASK,
   payload: { index, isCompleted },
 });
+
+
+
+
